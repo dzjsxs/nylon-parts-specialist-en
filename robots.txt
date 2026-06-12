@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://nylon-parts-specialist-en.pages.dev/sitemap.xml
